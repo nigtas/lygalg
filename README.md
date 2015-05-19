@@ -1,0 +1,2 @@
+# lygalg
+Lygiagreciuju alg. darbai
